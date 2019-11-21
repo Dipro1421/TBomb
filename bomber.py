@@ -239,7 +239,7 @@ def banner():
       ██    ██   ██ ██  ██ ██ ▒ ██ ██  ██         
       ██    ██████▒ ▒████▒ ██   ██ █████▒         
       ▒▒    ▒▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒          
-                                         """, 'green')
+                                         """, 'red')
     print()
 
 
@@ -426,7 +426,7 @@ def start(target, counter, delay, ch, cc):
                 else:
                     print('\n\n\tSorry Your Country is Not Supported...')
                     print(
-                        '\t\tPlease Send A Mail To ggspeedx29@gmail.com To Let Us Know...')
+                        '\t\tPlease Send A Mail To 9@gmail.com To Let Us Know...')
                     input('Press Enter To Exit...')
                     exit()
         print("==================================================================")
@@ -438,7 +438,7 @@ def start(target, counter, delay, ch, cc):
         print("             Successful Requests     : ", success)
         print("             Failed Requests         : ", failed)
         print("==================================================================")
-        print("              Use this for fun, not for revenge !!                ")
+        print("                       
         print("              This Bomber Was Created By SpeedX !!                ")
         print("==================================================================")
 
@@ -606,7 +606,7 @@ if nm == 0:
     print("             Number of Threads   : ", nt)
     print("             Delay               : ", dl)
     print("==================================================================")
-    print("              Use this for fun, not for revenge !!                ")
+    print("             
     print("              This Bomber Was Created By SpeedX !!                ")
     print("==================================================================")
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Start Bomber...\n')
